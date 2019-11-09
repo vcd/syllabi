@@ -18,16 +18,6 @@ For Example:
 * 71% (Part I) + 20% (Part II) = 91% Grade
 
 ---- 
-## Attendance
-Weekly attendance grading of the twenty (20) quarterly sessions. 
-
-5 Points = 0 Absences 
-4 Points = 1 Absence
-3 Points = 2 Absences
-2 Points = 3 Absences
-1 Point = 4 Absences
-
----- 
 ## 1st Score: Rubric for the Process
 Process is scored as work that is: _Complete_, _Partially Complete_, and _Majority Incomplete_ for the requirements, objectives, and deliverables for the Planning, Design, and Build phases. All Process phase deliverables are scored as:
 

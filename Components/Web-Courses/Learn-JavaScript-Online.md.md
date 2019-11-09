@@ -1,0 +1,3 @@
+# LearnJavaScript
+
+## Student Discount
