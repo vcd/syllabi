@@ -1,4 +1,4 @@
-## Contacts & Office Hours
+## Contacts
 Communication will be done via the following direct email, office phone and course tools. Note, email is preferred over **_Canvas_** “Inbox” or messaging.
 
 * P. Colin Manikoth
