@@ -1,14 +1,13 @@
 ## Contacts
-Communication will be done via the following direct email, office phone and course tools. Note, email is preferred over **_Canvas_** “Inbox” or messaging.
+Direct communication is preferred. Email `pmanikoth@ewu.edu` or call `509-359-4086`. Avoid _Canvas_ messaging and notifications.
 
 * P. Colin Manikoth
 * pmanikoth@ewu.edu
 * 509-359-4086
-* CEB 344
+* CAT 155
 
 ## Current Office Hours
-Office Hours for current Quarter: Winter 2020
+Office Hours for current Quarter: Fall Quarter 2020
  
-* M/W: 11am - 12pm
-*  T/R: 9am - 10am
-* F: By Appointment
+* Mon - Thur : Last 30 minutes of Lecture/Lab
+* Fridays : By Appointment

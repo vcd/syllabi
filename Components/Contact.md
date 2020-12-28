@@ -3,6 +3,5 @@ All communication will be done via the following direct email, office phone and 
 
 * P. Colin Manikoth
 * pmanikoth@ewu.edu
-* CEB 344
+* CAT 155
 * 509-359-4086
-* Course website to-be-announced

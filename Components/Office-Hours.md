@@ -1,4 +1,4 @@
-## Office hours for Winter 2018
+## Office hours for Spring 2020
 
 * Mon & Wed: 10am-12pm
 * Tue: 3-4pm
